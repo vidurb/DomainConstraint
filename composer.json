@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "phenaproxima\\DomainConstraint\\": "src"
+            "Vidurb\\DomainConstraint\\": "src"
         }
     }
 }
