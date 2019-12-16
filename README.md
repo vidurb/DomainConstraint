@@ -1,3 +1,4 @@
+This is a fork of [phenaproxima](https://github.com/phenaproxima/DomainConstraint)'s DomainConstraint that I'm hoping to keep updated.
 # DomainConstraint
 A constraint for Symfony's Validator component to test if a value is a valid domain name.
 
