@@ -1,4 +1,6 @@
-This is a fork of [phenaproxima](https://github.com/phenaproxima/DomainConstraint)'s DomainConstraint that I'm hoping to keep updated.
+This is a fork of [phenaproxima](https://github.com/phenaproxima/DomainConstraint)'s DomainConstraint.
+
+I'm hoping to keep it updated. As of now the only updates are bumping the dependencies up and updating the list of allowed TLDs (pulled the latest list from ICANN as of Dec 16 2019). If I get around to updating more stuff than I will contact the owner of the original repo and see if he wants to accept PRs for the updates/publish this repo to Packagist if not. Until then you can use it as a VCS repository if you need.
 # DomainConstraint
 A constraint for Symfony's Validator component to test if a value is a valid domain name.
 
