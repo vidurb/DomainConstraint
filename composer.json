@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "symfony/validator": "~2.6"
+        "symfony/validator": "~4"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.5"
