@@ -1,6 +1,6 @@
 <?php
 
-namespace phenaproxima\DomainConstraint;
+namespace Vidurb\DomainConstraint;
 
 use Symfony\Component\Validator\Constraint;
 

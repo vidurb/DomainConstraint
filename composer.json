@@ -1,10 +1,10 @@
 {
-    "name": "rudiv/domain-constraint",
-    "description": "A constraint for Symfony's Validator which tests if a value is a valid domain name.",
+    "name": "vidurb/domain-constraint",
+    "description": "A constraint for Symfony's Validator which tests if a value is a valid domain name. (Updated fork of phenaproxima/domain-constraint)",
     "license": "MIT",
     "authors": [
         {
-            "name": "rudiv",
+            "name": "vidurb",
             "email": "vidurbutalia@gmail.com"
         }
     ],
