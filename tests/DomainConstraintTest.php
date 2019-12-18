@@ -1,9 +1,9 @@
 <?php
 
-namespace phenaproxima\DomainConstraint;
+namespace Vidurb\DomainConstraint;
 
 /**
- * @coversDefaultClass \phenaproxima\DomainConstraint\DomainValidator
+ * @coversDefaultClass \Vidurb\DomainConstraint\DomainValidator
  */
 class DomainConstraintTest extends \PHPUnit_Framework_TestCase {
 
